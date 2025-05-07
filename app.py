@@ -75,4 +75,4 @@ if __name__ == "__main__":
 ]
 
     datos = obtener_nutricion(ingredientes)
-    guardar_csv(datos, "/muestra_recetas.csv")
+    guardar_csv(datos, "data/muestra_recetas.csv")
