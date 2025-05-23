@@ -1,0 +1,60 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración y entornos
+*.env
+*.venv
+.env/
+.venv/
+
+# Archivos generados por Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de datos y modelos grandes (común en ML)
+*.pkl
+*.h5
+*.model
+*.joblib
+data/
+*.csv
+*.parquet
+*.feather
+
+# Logs y resultados
+logs/
+*.log
+mlruns/
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de instalación y dependencias
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Python
+*.cfg
+!setup.cfg
+
+# Archivos de coverage
+.coverage
+htmlcov/
+
+# Archivos de testing
+.pytest_cache/
