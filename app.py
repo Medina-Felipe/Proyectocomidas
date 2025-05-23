@@ -2,8 +2,12 @@ import requests
 import csv
 import os
 from time import sleep
+from dotenv import load_dotenv
 
-API_KEY = "41e5f34cb39049149b611ae999d744c9"
+load_dotenv()
+
+
+SPOONACULAR_KEY = os.getenv("SPOONACULAR_KEY")
 OUTPUT_FILE = "data/recetas.csv"
 
 # Campo adicional: nombre de la receta
@@ -36,7 +40,7 @@ def obtener_recetas(n=100):
     while len(recetas) < n:
         url = f"https://api.spoonacular.com/recipes/complexSearch"
         params = {
-            "apiKey": API_KEY,
+            "apiKey": SPOONACULAR_KEY,
             "number": 10,
             "offset": offset,
             "addRecipeInformation": True
