@@ -8,6 +8,6 @@ Este proyecto analiza ingredientes mediante la API de Spoonacular y extrae sus v
 3. Crear entorno: `python -m venv .venv`
 4. Activar entorno: `.venv\Scripts\activate`
 5. Instalar dependencias: `pip install -r requirements.txt`
-6. Crear archivo .env con tu API key.
+6. Crear archivo .env con tu API key de Spoonacular.
 7. Ejecuta el archivo app.py para generar un csv (O utiliza que el viene en el proyecto)
 8. Ejecuta el archivo analisis.ipynb para leer los datos
