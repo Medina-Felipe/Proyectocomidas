@@ -1,0 +1,101 @@
+title,servings,readyInMinutes,cookingMinutes,preparationMinutes,healthScore,spoonacularScore,pricePerServing,cheap,dairyFree,glutenFree,sustainable,vegan,vegetarian,veryHealthy,veryPopular
+Red Lentil Soup with Chicken and Turnips,8,55,45,10,100.0,99.4280014038086,300.45,False,True,True,False,False,False,True,True
+Asparagus and Pea Soup: Real Convenience Food,2,20,,,100.0,99.4173812866211,178.37,False,True,True,False,True,True,True,False
+Garlicky Kale,2,45,,,83.0,98.94337463378906,69.09,False,True,True,False,True,True,True,False
+Slow Cooker Beef Stew,6,490,480,10,100.0,98.84809112548828,270.41,False,True,True,False,False,False,True,False
+Red Kidney Bean Jambalaya,6,45,,,96.0,98.81845092773438,168.43,False,True,True,False,True,True,True,False
+"Cauliflower, Brown Rice, and Vegetable Fried Rice",8,30,15,15,51.0,98.71614074707031,119.36,False,True,True,False,True,True,False,True
+Quinoa and Chickpea Salad with Sun-Dried Tomatoes and Dried Cherries,6,45,,,100.0,98.6294174194336,186.91,False,True,True,False,False,True,True,False
+Easy Homemade Rice and Beans,2,35,,,60.0,98.6247329711914,106.02,False,True,True,False,True,True,True,True
+Tuscan White Bean Soup with Olive Oil and Rosemary,6,45,,,94.0,98.55374908447266,49.7,False,True,True,False,True,True,True,False
+Crunchy Brussels Sprouts Side Dish,4,30,,,100.0,98.45735931396484,169.38,False,True,True,False,False,True,True,False
+Slow Cooker: Pork and Garbanzo Beans,6,45,,,100.0,98.12744903564453,298.81,False,True,True,False,False,False,True,False
+Powerhouse Almond Matcha Superfood Smoothie,2,10,,,52.0,98.1092300415039,259.09,False,True,True,False,False,False,False,False
+Broccolini Quinoa Pilaf,2,30,,,74.0,98.09386444091797,414.24,False,True,True,False,True,True,True,False
+Easy To Make Spring Rolls,4,45,,,100.0,98.03611755371094,377.64,False,True,True,False,False,False,True,False
+Farro With Mushrooms and Asparagus,4,75,,,80.0,97.87738037109375,394.03,False,True,False,False,False,True,True,False
+Butternut Squash Frittata,1,45,,,100.0,97.85279083251953,340.39,False,False,True,False,False,False,True,False
+Herbivoracious' White Bean and Kale Soup,6,45,,,100.0,97.81642150878906,78.07,False,True,True,False,True,True,True,False
+Tomato and lentil soup,4,45,,,100.0,97.75567626953125,115.56,False,True,True,False,True,True,True,False
+Swiss Chard Wraps,6,45,,,90.0,97.75370025634766,81.56,False,True,True,False,True,True,True,False
+Corn Avocado Salsa,2,25,,,71.0,97.75187683105469,130.73,False,True,True,False,True,True,True,False
+Cheesy Chicken Enchilada Quinoa Casserole,4,30,15,15,38.0,97.69800567626953,262.25,False,False,True,False,False,False,False,True
+Zesty Green Pea and Jalapeño Pesto Pasta,4,45,,,57.0,97.64282989501953,115.45,False,True,False,False,False,False,True,False
+Jade Buddha Salmon Tartare,2,45,,,89.0,97.63682556152344,696.04,False,True,True,False,False,False,True,False
+Finger Foods: Frittata Muffins,1,45,,,49.0,97.62482452392578,295.92,False,False,True,False,False,True,False,True
+Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant,6,45,,,71.0,97.58377075195312,94.05,False,True,True,False,True,True,True,False
+Moroccan chickpea and lentil stew,3,30,,,96.0,97.53744506835938,126.12,False,True,False,False,True,True,True,False
+Strawberry-Mango Quinoa Salad,4,45,,,66.0,97.19896697998047,187.33,False,False,True,False,False,True,True,False
+Caldo Verde - Portuguese Kale Soup,4,45,,,89.0,97.14744567871094,224.09,False,True,True,False,False,False,True,False
+Moroccan Couscous and Chickpea Salad,6,45,,,56.0,96.9771499633789,187.17,False,True,False,False,True,True,False,False
+Easy Vegetable Beef Soup,8,150,120,30,65.0,96.96931457519531,345.26,False,True,False,False,False,False,True,False
+Mango Fried Rice,2,45,,,45.0,96.96844482421875,151.08,False,True,True,False,False,False,False,False
+Homemade Guacamole,4,45,,,34.0,96.87762451171875,91.76,False,True,True,False,True,True,False,True
+Roasted Broccoli with Lemon and Garlic,4,45,,,70.0,96.8267593383789,30.33,False,True,True,False,True,True,True,False
+Spicy Indian-Style Hummus,12,45,,,40.0,96.80040740966797,43.68,False,True,True,False,True,True,False,False
+"Stir Fried Quinoa, Brown Rice and Chicken Breast",1,45,,,66.0,96.79170227050781,357.8,False,False,True,False,False,False,True,False
+Snap Pea and Green Bean Salad with Arugula Pesto,6,45,,,49.0,96.73908233642578,221.91,False,False,True,False,False,True,False,False
+Skinny Kale Basil Pesto,3,45,,,81.0,96.6719741821289,105.92,False,False,True,False,False,False,True,False
+"Greek-Style Baked Fish: Fresh, Simple, and Delicious",4,30,,,42.0,96.66531372070312,303.59,False,False,True,False,False,False,False,True
+Spinach Salad with Strawberry Vinaigrette,1,45,,,79.0,96.56190490722656,338.97,False,False,True,False,False,False,True,False
+Salmon with roasted vegetables,2,45,,,100.0,96.49004364013672,520.46,False,True,True,False,False,False,True,False
+Cod with Tomato-Olive-Chorizo Sauce and Mashed Potatoes,2,45,,,83.0,96.45520782470703,626.14,False,True,True,False,False,False,True,False
+Vegetable Dip,3,45,,,100.0,96.44408416748047,183.58,False,False,True,False,False,True,True,False
+Balsamic & Honey Glazed Salmon with Lemony Asparagus,2,60,,,82.0,96.41927337646484,443.76,False,True,True,False,False,False,True,False
+Curried Butternut Squash and Apple Soup,1,45,,,81.0,96.35275268554688,141.44,False,True,True,False,True,True,True,False
+Amaranth and Roast Veggie Salad,2,45,,,100.0,96.31000518798828,246.69,False,True,True,False,True,True,True,False
+Carrot and Cabbage Salad With Coriander+cumin Dry Rub,1,25,,,100.0,96.27356719970703,139.83,False,True,True,False,True,True,True,False
+Instant Pot Quinoa Grain Bowl,4,13,11,2,100.0,96.17161560058594,301.67,False,True,True,False,True,True,True,False
+Roasted Cauliflower Detox Bowl with Tahini Sauce,2,50,,,100.0,96.16326904296875,305.89,False,True,True,False,True,True,True,False
+Smoky Black Bean Soup With Sweet Potato & Kale,6,630,,,100.0,96.13575744628906,262.42,False,True,True,False,False,True,True,False
+Chorizo and Beef Quinoa Stuffed Pepper,4,30,10,20,34.0,96.09909057617188,369.37,False,False,True,False,False,False,False,True
+Alouette® Stuffed Mushroom Caps,8,45,,,52.0,96.07267761230469,150.29,False,True,False,False,True,True,False,False
+Coffee-braised Short Ribs,5,45,,,100.0,96.0623550415039,704.87,False,True,True,False,False,False,True,False
+Herb chicken with sweet potato mash and sautéed broccoli,4,45,,,81.0,95.89381408691406,312.55,False,False,True,False,False,False,True,False
+Chicken and Mango Skewer,1,45,,,68.0,95.88313293457031,450.95,False,True,True,False,False,False,True,False
+Crab Salad Stuffed Pita Pockets,2,25,,,88.0,95.87574005126953,590.1,False,True,False,False,False,False,True,False
+Easy Roasted Vegetables,4,45,,,100.0,95.87090301513672,127.7,False,True,True,False,True,True,True,False
+Chilled Cucumber Avocado Soup with Yogurt and Kefir,3,45,,,40.0,95.86849212646484,209.51,False,False,True,False,False,True,False,False
+Turkish Chicken Salad with Home-made Cacik Yogurt Sauce,4,45,,,82.0,95.78689575195312,447.82,False,False,True,False,False,False,True,False
+Butternut Squash Soup (In Half An Hour!),8,30,,,86.0,95.78345489501953,124.5,False,True,True,False,True,True,True,False
+Doughnuts,2,45,,,35.0,95.78147888183594,67.93,False,False,False,False,False,True,False,False
+Shredded Roast Beef Stuffed Sweet Potatoes (Whole 30 & PALEO),5,490,480,10,79.0,95.7626724243164,237.36,False,True,True,False,False,False,True,False
+Lentil Mango Salad,4,45,,,100.0,95.73566436767578,159.25,False,True,True,False,True,True,True,False
+Gujarati Dry Mung Bean Curry,4,45,,,100.0,95.71414947509766,164.1,False,True,True,False,True,True,True,False
+Basil Tagliatelle with Roasted Red Bell Pepper Salad,4,45,,,100.0,95.66057586669922,407.11,False,True,True,False,True,True,True,False
+Peanut Butter and Jelly Smoothie,2,45,,,33.0,95.65823364257812,144.77,False,True,True,False,False,False,False,False
+Moosewood Lentil Soup,6,45,,,100.0,95.65193939208984,74.36,False,True,True,False,True,True,True,False
+Crispy Panko and Herb Crusted Salmon,6,45,,,100.0,95.64864349365234,416.31,False,True,False,False,False,False,True,False
+Cilantro Lime Halibut,2,45,,,68.0,95.55914306640625,881.11,False,True,True,False,False,False,True,False
+Broccoli Tartar,12,45,,,89.0,95.55877685546875,105.84,False,True,True,False,True,True,True,False
+Spinach and Gorgonzola Stuffed Flank Steak,4,45,,,79.0,95.55812072753906,427.24,False,False,False,False,False,False,True,False
+Vegetarian Mushroom Shepherd's Pie,12,45,,,66.0,95.53689575195312,116.49,False,True,True,False,False,False,True,False
+Slow Cooker Chicken Taco Soup,6,485,480,5,28.0,95.53045654296875,141.43,False,True,True,False,False,False,False,True
+Broccoli with cheese soup,4,45,,,54.0,95.51480102539062,66.47,False,False,False,False,False,True,False,False
+Ancient Grains Bread,14,45,,,74.0,95.40231323242188,82.62,False,False,False,False,False,True,True,False
+Garlic Lemon Chili Broccoli,2,30,,,100.0,95.37157440185547,155.62,False,True,True,False,True,True,True,False
+Shrimp and Avocado Salad,4,45,,,100.0,95.298095703125,1157.26,False,True,True,False,False,False,True,False
+"Vietnamese Pancakes with Vegetables, Herbs and a Fragrant Dipping Sauce (Bánh Xèo)",6,45,,,35.0,95.25067901611328,318.98,False,True,True,False,False,True,False,False
+Salmon Quinoa Risotto,4,45,,,100.0,95.183349609375,382.96,False,True,True,False,False,False,True,False
+Gluten Free Dairy Free Sugar Free Chinese Chicken Salad,6,45,,,98.0,95.1758804321289,305.98,False,True,True,False,False,False,True,False
+Easy Instant Pot Beef Tips and Rice,4,30,25,5,53.0,95.10752868652344,220.3,False,True,True,False,False,False,False,False
+Venison Stew,7,45,,,93.0,95.06456756591797,202.02,False,True,False,False,False,False,True,False
+Radish & Snap Pea Quinoa Salad,4,45,,,100.0,95.04232788085938,168.23,False,False,True,False,False,True,True,False
+"Salmon, Watercress, Fennel and Baby Beetroot Salad With Lemony ""Caviar"" Dressing",4,45,,,92.0,95.04085540771484,427.76,False,True,True,False,False,False,True,False
+Ground Turkey Stuffed Peppers,4,45,,,39.0,94.98545837402344,299.64,False,False,True,False,False,False,False,False
+Brown Butter Twice Baked Sweet Potatoes,4,95,75,20,26.0,94.88549041748047,355.67,False,False,True,False,False,False,False,True
+Rice and Peas with Coconut Curry Mackerel,4,45,,,52.0,94.8409194946289,243.53,False,True,True,False,False,False,False,False
+Baby Bok Choy Stir Fry,2,45,,,85.0,94.83140563964844,109.24,False,True,True,False,True,True,True,False
+Delightful Kale and Cabbage Slaw,6,45,,,87.0,94.7828140258789,61.75,False,True,True,False,False,False,True,False
+4 Ingredient Chicken Pot Pie,6,45,,,39.0,94.7482681274414,440.62,False,True,False,False,False,False,False,False
+Baked Penne,8,45,,,100.0,94.74783325195312,72.55,False,True,False,False,True,True,True,False
+Penne Arrabiata,4,45,,,92.0,94.72295379638672,104.84,False,True,False,False,True,True,True,False
+Delicious Creamy Lentils and Chestnuts Soup,4,30,,,100.0,94.64895629882812,80.08,False,True,True,False,True,True,True,False
+Chimichurri Skirt Steak with Grilled Asparagus,4,45,,,66.0,94.53340148925781,490.25,False,True,True,False,False,False,True,False
+Peppery Absorption-Cooked Red-Wine Capellini,4,45,,,89.0,94.45575714111328,393.69,False,True,False,False,False,False,True,False
+"Spicy lentil and black rice soup with kale, spinach and leek",12,45,,,98.0,94.43482971191406,83.87,False,True,True,False,True,True,True,False
+Cauliflower Rice,1,15,10,5,100.0,94.3867416381836,522.83,False,True,True,False,True,True,True,False
+Borani Esfanaaj,8,45,,,100.0,94.3257064819336,114.13,False,False,True,False,False,True,True,False
+"Quinoa, Tomato, Green Onion Side Salad",2,45,,,90.0,94.3210220336914,138.73,False,True,True,False,True,True,True,False
+Easy Tabouleh,1,45,,,100.0,94.28948211669922,463.72,False,True,False,False,True,True,True,False
+Winter Fattoush Salad,6,45,,,100.0,94.25508117675781,123.22,False,False,False,False,False,True,True,False
